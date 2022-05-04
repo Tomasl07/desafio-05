@@ -1,0 +1,34 @@
+footer{
+    background-color: #fdf9c4;
+  }
+  .footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .footer ul{
+    list-style-type: none;
+  }
+  .footer li a{
+    text-decoration: none;
+  }
+  .lista1 a{
+    font-size: 30px;
+    border: solid black 1px;
+    padding: 10px;
+    cursor: pointer;
+    color: rgb(255, 255, 255);
+    border-radius: 15px;
+    background-color: black;
+    
+  }
+  .lista2{
+    font-size: 30px;
+    margin-right: 35px;
+    border-left: black solid 2px;
+    cursor: pointer;
+    
+  }
+  .lista2 li{
+    padding: 10px;
+  }
