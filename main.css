@@ -1,3 +1,12 @@
+.divgen{
+  display: flex;
+  justify-content: center;
+}
+
+
+
+
+
 footer{
     background-color: #fdf9c4;
   }
