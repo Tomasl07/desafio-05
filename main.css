@@ -35,7 +35,7 @@ footer{
 
 
 
-
+/* --------------------------------------------------------- */
 
 
   .maintransp{
@@ -68,6 +68,20 @@ footer{
     cursor: pointer;
   }
 
+/* --------------------------------------------------------- */
+
+  .registrarse{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+    margin: 10em;
+    border: black;
+    padding-top: 70px;
+  }
+  .main{
+    height: 40em;
+  }
 
 
 
@@ -102,6 +116,7 @@ footer{
 
 
 
+/* --------------------------------------------------------- */
 
   @media screen and (min-width: 769px){
 
