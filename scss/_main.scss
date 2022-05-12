@@ -1,0 +1,49 @@
+.divgen{
+    display: flex;
+    justify-content: center;
+  }
+  
+  .conf{
+     img{
+         display: flex;
+         flex-direction: column;
+     }
+  
+    }
+
+    footer{
+        background-color: #fdf9c4;
+      }
+      .footer{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+         ul{
+           list-style-type: none;}
+           li a{
+               text-decoration: none;
+             }
+    
+      }
+      
+      .lista1 a{
+        font-size: 30px;
+        border: solid black 1px;
+        padding: 10px;
+        cursor: pointer;
+        color: rgb(255, 255, 255);
+        border-radius: 15px;
+        background-color: black;
+        
+      }
+      .lista2{
+        font-size: 22px;
+        margin-right: 30px;
+        border-left: black solid 2px;
+        cursor: pointer;
+    
+        li{
+           padding: 10px;
+         }
+    
+      }
