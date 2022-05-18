@@ -22,16 +22,14 @@ footer {
   font-size: 30px;
   border: solid black 1px;
   padding: 10px;
-  cursor: pointer;
   color: white;
   border-radius: 15px;
   background-color: black; }
 
 .lista2 {
   font-size: 22px;
-  margin-right: 30px;
-  border-left: black solid 2px;
-  cursor: pointer; }
+  margin-right: black solid 2px;
+  border-left: 30px; }
   .lista2 li {
     padding: 10px; }
 
