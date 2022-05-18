@@ -29,21 +29,20 @@
       .lista1 a{
         font-size: 30px;
         border: solid black 1px;
-        padding: 10px;
+        padding: $spacing5*2;
         color: rgb(255, 255, 255);
-        border-radius: 15px;
+        border-radius: $spacing5*3;
         background-color: black;
         
       }
 
       // Mixins
-      @mixin banana($fuente, $borde, $espaciado){
+      @mixin banana($fuente, $borde){
         font-size: $fuente;
-        margin-right: $espaciado;
-        border-left: $borde;
+        margin-right: $espaciado;  
       }
       .lista2{
-        @include banana(22px, 30px, black solid 2px )
+        @include banana(22px, 30px)
         li {
-          padding: 10px; }
+          padding: $spacing5*2; }
       }

@@ -14,12 +14,12 @@
   }
   .tituloint, .cuadro2{
     border: solid black 1px;
-    margin: 5px;
-    padding: 5px;
+    margin: $spacing5;
+    padding: $spacing5;
     background-color: rgb(223, 164, 87);
   }
   .btncotizar{
-    font-size: 15px;
+    font-size: $spacing5*3;
     border: solid rgb(0, 0, 0) 2px;
     background-color: black;
     cursor: pointer;
