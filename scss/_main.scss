@@ -42,8 +42,14 @@
         margin-right: $espaciado;  
       }
       .lista2{
-        @include banana(22px, 30px)
+
+        @include banana(22px, 30px);
+
         li {
-          padding: $spacing5*2; }
-      }
+
+          padding: $spacing5*2; 
+
+        }
+
+ }
       
