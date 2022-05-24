@@ -6,7 +6,11 @@ Luego agregue un mixin al footer con el font-size y margin right, lo incluí al 
 
 
 
+----------------------------------------------------------------------------------------------------------------------
+Para la pre-entrega 3 modifique un poco el main, cambiando el tamaño de las letras. 
+Ademas le agregue un carousel mas lindo a la vista con imagenes poco pixeleadas y con descripción de las camionetas. Queria agregarle un texto a la izquierda con la descripción especifica de cada camioneta ya que lo hice con un card (el carousel), pero se me complico mucho y decidi enviarlo como esta. Tambien se me complico mucho hacerlo responsivo, ya que no se porque booststrap no me lo hacía responsivo automaticamente.
 
+----------------------------------------------------------------------------------------------------------------------
 
 
 
