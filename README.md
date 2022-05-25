@@ -7,7 +7,7 @@ Luego agregue un mixin al footer con el font-size y margin right, lo incluí al 
 
 
 ----------------------------------------------------------------------------------------------------------------------
-Para la pre-entrega 3 modifique un poco el main, cambiando el tamaño de las letras. 
+Para la pre-entrega 3 modifique el main, cambiando el tamaño de las letras, agregando 3 tarjetas mas y cambiando los estilos de los mismos, además le agregue unos efectos a los cuadros y a el logo de la empresa para que sea mas lindo visualmente. 
 Ademas le agregue un carousel mas lindo a la vista con imagenes poco pixeleadas y con descripción de las camionetas. Queria agregarle un texto a la izquierda con la descripción especifica de cada camioneta ya que lo hice con un card (el carousel), pero se me complico mucho y decidi enviarlo como esta. Tambien se me complico mucho hacerlo responsivo, ya que no se porque booststrap no me lo hacía responsivo automaticamente. Además le agregue un background color al html mudanzas.
 También le agregue favicon a todos los html y descripciones de la pagina. Además, en el main le agregue palabras claves para que mi pagina aparezca arriba en las busquedas.
 

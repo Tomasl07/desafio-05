@@ -31,6 +31,34 @@ footer{
 .conf img {
   display: flex;
   flex-direction: column; }
+.logoimg{
+    border-radius: 50px 50px 50px 50px;
+  }
+
+.main-caracteristicas{
+    margin: 1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+  
+}
+
+.main-caracteristicas { 
+    display: grid;
+    justify-items: center;
+    text-align: center; }
+.cartamain {
+      border-radius: 50px;
+      transition: transform .2s, box-shadow .2s;
+      margin-top: 1rem; }
+.cartamain img {
+        border-radius: 50px 50px 0 0; }
+.cartamain:hover {
+        border: none;
+        transform: translate(0, -20px);
+        box-shadow: 0px 20px 20px 0px rgba(0, 0, 0, 0.75);
+        -webkit-box-shadow: 0px 20px 20px 0px rgba(0, 0, 0, 0.75);
+        -moz-box-shadow: 0px 20px 20px 0px rgba(0, 0, 0, 0.75); }
 
 footer {
   background-color: #fdf9c4; }
@@ -157,8 +185,9 @@ main{
       ;
   }
 
-
-
+.main-caracteristicas{
+  flex-direction: row;
+}
 
 
 
